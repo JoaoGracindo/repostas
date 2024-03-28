@@ -1,0 +1,11 @@
+a) 9   -> numeros impares;
+
+b) 128 -> ultimo numero vezes 2;
+
+c) 49  -> indice do numero menos 1 ao quadrado;
+
+d) 100 -> numeros pares ao quadrado;
+
+e) 13  -> sequencia de Fibonacci;
+
+f) 200 -> numeros começados com a letra "d"
